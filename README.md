@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh
 
-<!--
-**saurabhPendam/saurabhPendam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech CSE student passionate about **Cloud Computing, DevOps, AI Systems, and Full-Stack Development**.
+I enjoy building scalable apps, automation workflows, and clean backend architectures.
 
-Here are some ideas to get you started:
+##  Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cloud DevOps Full-Stack Projects
+* CI/CD pipelines & Docker deployments
+* AI-powered applications and chatbot systems
+
+##  Tools & Technologies
+
+**Languages:** JavaScript, Python, Java, SQL
+**Web:** React, Node.js, Django, REST APIs
+**Cloud & DevOps:** Docker, GitHub Actions, Google Cloud
+**Database:** MySQL, MongoDB
+**Other:** Git, Linux, NLP, OpenCV
